@@ -3,3 +3,20 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    font-weight: 300px;
+    font-size: 42px;
+    color: white;
+}
+
+.link {
+    color: aquamarine;
+    font-size:16px;
+}
