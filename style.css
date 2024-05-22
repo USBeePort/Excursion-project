@@ -25,3 +25,9 @@ h2 {
     font-size: 21px;
     color: gray;
 }
+
+.footer-logo {
+    color: gray;
+    font-size: 21px;
+    text-align: right;
+}
